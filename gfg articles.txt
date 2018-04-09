@@ -1,23 +1,14 @@
 Links to all my published articles (in order) are:
 
 1. http://www.geeksforgeeks.org/java-util-random-nextint-java/
-
 2. https://www.geeksforgeeks.org/standard-normal-distribution-snd/
-
 3. https://www.geeksforgeeks.org/generating-random-ids-python/
-
 4. https://www.geeksforgeeks.org/generating-random-ids-using-uuid-python/
-
 5. https://www.geeksforgeeks.org/extracting-mac-address-using-python/
-
 6. https://www.geeksforgeeks.org/wishing-valentine-program/
-
 7. https://www.geeksforgeeks.org/sha-in-python/
-
 8. https://www.geeksforgeeks.org/md5-hash-python/
-
 9. https://www.geeksforgeeks.org/program-print-happy-holi/
-
 10. https://www.geeksforgeeks.org/python-now-function/
 
 
