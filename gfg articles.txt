@@ -10,6 +10,7 @@ Links to all my published articles (in order) are:
 8. https://www.geeksforgeeks.org/md5-hash-python/
 9. https://www.geeksforgeeks.org/program-print-happy-holi/
 10. https://www.geeksforgeeks.org/python-now-function/
+11. https://www.geeksforgeeks.org/generating-hash-ids-using-uuid3-and-uuid5-in-python/
 
 
 
